@@ -8,6 +8,7 @@
         <description/>
         <mobile_callable>false</mobile_callable>
         <name>RainUtil</name>
+        <sandbox_callable>false</sandbox_callable>
         <script><![CDATA[ var RainUtil = Class.create();
  RainUtil.prototype = {
      initialize: function() {},
